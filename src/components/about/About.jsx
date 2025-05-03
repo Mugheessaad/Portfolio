@@ -12,12 +12,12 @@ const About = () => {
         <img src={work2} alt="" className="about__img" />
         <div className="about__data">
           <p className="about__description">
-            As a Full-Stack Developer with expertise in the MERN stack, I
-            possess an impressive arsenal of skills in HTML, CSS, JavaScript,
-            React, Tailwind, and Node.js.
+          With a focus on delivering high‑performance web solutions, I bridge front‑end innovation and backend robustness as a MEVN Stack Developer at Satus Systems. I craft responsive interfaces in Vue.js and architect scalable, maintainable APIs using Nest.js, Node.js, and Express. My deep understanding of JavaScript, TypeScript, and SQL enables me to design clean data models, implement efficient business logic.
+          <br /><br />
+          Whether you are a recruiter, entrepreneur, or tech enthusiast, I am eager to connect and explore new opportunities. Lets collaborate to create something amazing and build the future of Web Applications together!
           </p>
           <a
-            download="SayyidMarvanVT_Resume.pdf"
+            download="MugheesSaad_Resume.pdf"
             href={resume}
             className="button button--flex"
           >

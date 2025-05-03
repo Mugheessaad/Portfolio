@@ -49,10 +49,10 @@ const Qualification = () => {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">
-                B.Tech in CSE.
+                BS in Computer Science.
                 </h3>
                 <span className="qualification__subtitle">
-                  VTU -Bangalore
+                  UOL - Lahore
                 </span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i> 2019 - 2023
@@ -71,9 +71,9 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Higher Secondary</h3>
+                <h3 className="qualification__title">HSSC</h3>
                 <span className="qualification__subtitle">
-                  Kerala
+                  PGC - Haroonabad
                 </span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i> 2017 - 2019
@@ -83,9 +83,9 @@ const Qualification = () => {
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">SSLC</h3>
+                <h3 className="qualification__title">SSC</h3>
                 <span className="qualification__subtitle">
-                  AKM - Kerala
+                  FFC - Haroonabad
                 </span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i> 2016 - 2017

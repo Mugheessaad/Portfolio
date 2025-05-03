@@ -15,6 +15,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-type-animation": "^3.2.0",
+    "simple-icons": "^14.12.3",
     "use-dencrypt-effect": "^2.0.0"
   },
   "devDependencies": {

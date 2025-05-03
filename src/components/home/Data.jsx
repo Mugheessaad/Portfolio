@@ -7,14 +7,14 @@ const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        <TextDecrypt text={"Sayyid Marvan VT"} />
+        <TextDecrypt text={"M Mughees Saad"} />
       </h1>
 
       <TypeAnimation
         sequence={[
           "Web Developer",
           3000,
-          "React Developer",
+          "MEVN Stack Developer",
           3000,
           "FullStack Developer",
           3000,
@@ -28,8 +28,8 @@ const Data = () => {
       />
 
       <p className="home__description">
-        A passionate Full-Stack Developer specializing in the MERN stack, based
-        in Kerala, India.
+        A passionate Full-Stack Developer specializing in the MEVN stack, based
+        in Lahore, Pakistan.
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello

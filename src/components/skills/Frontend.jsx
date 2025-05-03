@@ -7,8 +7,8 @@ const Frontend = () => {
       icon: "bx bxl-html5 skills_icon",
     },
     {
-      name: "React",
-      icon: "bx bxl-react skills_icon",
+      name: "VueJS",
+      icon: "bx bxl-vuejs skills_icon",
     },
 
     {
@@ -24,8 +24,8 @@ const Frontend = () => {
     },
 
     {
-      name: "Redux",
-      icon: "bx bxl-redux skills_icon",
+      name: "Typescript",
+      icon: "bx bxl-typescript skills_icon",
     },
 
     {

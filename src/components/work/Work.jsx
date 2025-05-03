@@ -173,7 +173,7 @@ const Work = () => {
           }`}
           onClick={() => setSelectedCategory("React")}
         >
-          REACT
+          Vue
         </button>
       </div>
 

@@ -25,7 +25,7 @@ const Footer = () => {
         </ul>
         <div className="footer__social">
           <a
-            href="https://www.instagram.com/_marvan.__"
+            href="https://www.instagram.com/mugheessaad/#"
             target="_blank"
             rel="noopener noreferrer"
             className="footer__social-link"
@@ -33,7 +33,7 @@ const Footer = () => {
             <i className="bx bxl-instagram"></i>
           </a>
           <a
-            href="https://www.linkedin.com/in/sayyidmarvanvt"
+            href="https://www.linkedin.com/in/m-mugheessaad"
             target="_blank"
             rel="noopener noreferrer"
             className="footer__social-link"
@@ -41,7 +41,7 @@ const Footer = () => {
             <i className="bx bxl-linkedin"></i>
           </a>
           <a
-            href="https://github.com/sayyidmarvanvt"
+            href="https://github.com/Mugheessaad"
             target="_blank"
             rel="noopener noreferrer"
             className="footer__social-link"
@@ -50,7 +50,7 @@ const Footer = () => {
           </a>
         </div>
         <span className="footer__copy">
-          &#169; SayyidMarvan. All rigths reserved
+          &#169; Mugheessaad. All rigths reserved
         </span>
       </div>
     </footer>

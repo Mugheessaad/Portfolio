@@ -7,8 +7,8 @@ const Backend = () => {
       icon: "bx bxl-nodejs skills_icon",
     },
     {
-      name: "MongoDB",
-      icon: "bx bxl-mongodb skills_icon",
+      name: "NestJs",
+      icon: "devicon-nestjs-original colored",
     },
     {
       name: "firebase",
@@ -21,7 +21,7 @@ const Backend = () => {
       icon: "bx bx-server skills_icon",
     },
     {
-      name: "Mongoose",
+      name: "MySQL",
       icon: "bx bx-data skills_icon",
     },
     {
