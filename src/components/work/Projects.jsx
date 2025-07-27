@@ -26,6 +26,7 @@ const Projects = ({ projects }) => {
             <ul className="tags">
               {project.stacks.map((stack, i) => (
                 <a
+                  key={i}
                   href={project.github}
                   target="_blank"
                   rel="noopener noreferrer"
