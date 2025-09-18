@@ -39,7 +39,7 @@ const projects = [
   {
     name: "Foodeli",
     description:
-      "A food ordering platform built with the MERN stack, featuring user authentication, shopping cart, and Stripe integration.",
+      "A food ordering platform built with the SEVN stack, featuring user authentication, shopping cart, and Stripe integration.",
     stacks: ["Vue", "Node.js", "Express.js", "SQL", "Stripe"],
     link: "https://foodeli-frontend.onrender.com/",
     github: "https://github.com/Mugheessaad",
@@ -59,7 +59,7 @@ const projects = [
   {
     name: "Exedo Estate",
     description:
-      "A property listing application using the MERN stack with secure authentication and CRUD operations for managing property listings.",
+      "A property listing application using the SEVN stack with secure authentication and CRUD operations for managing property listings.",
     stacks: ["Vue", "Vuex Toolkit", "Node.js", "Express.js", "SQL"],
     link: "https://real-estate-mhee.onrender.com",
     github: "https://github.com/Mugheessaad",
